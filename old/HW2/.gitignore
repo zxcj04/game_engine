@@ -1,0 +1,9 @@
+.vscode/
+obj/
+a.out
+main
+main.exe
+*.zip
+*.old
+imgui.ini
+out

@@ -1,0 +1,12 @@
+[submodule "HW1_ref"]
+	path = HW1_ref
+	url = git@github.com:zxcj04/game_engine_Hw1.git
+[submodule "HW2"]
+	path = HW2
+	url = git@github.com:zxcj04/game_engine_Hw2.git
+[submodule "HW3"]
+	path = HW3
+	url = git@github.com:zxcj04/game_engine_Hw3.git
+[submodule "HW4"]
+	path = HW4
+	url = git@github.com:zxcj04/game_engine_Hw4.git
